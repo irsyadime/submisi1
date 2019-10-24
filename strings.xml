@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFavPlayer</string>
+    <string name="player_name">PlayerName</string>
+    <string name="player_detail">PlayerDetail</string>
+    <string name="btn_detail">Detail</string>
+    <string name="irsyad_m2015_gmail_com">irsyad.m2015@gmail.com</string>
+    <string name="irsyad_musyaffa">Irsyad Musyaffa</string>
+</resources>
